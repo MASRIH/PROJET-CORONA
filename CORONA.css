@@ -1,0 +1,22 @@
+*{
+    background-color: rgb(0, 5, 34);
+    margin: 4 auto;
+    border: auto;
+}
+header{
+    padding: 3px;
+}
+header nav{
+    display: inline;
+    float: right;
+}
+a{
+    text-decoration: none;
+    color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin: 20px;
+    display: inline;
+}
+a:hover{
+    color: rgb(21, 196, 114);
+}
